@@ -1,5 +1,5 @@
 ## Project Management Application
-This web application lets you create new projects and add details to it. You can see what projects have bee added by other people and get notifications for the same. This is simple application for managing projects.
+This web application lets you create new projects and add details to it. You can see what projects have been added by other people and get notifications for the same. This is simple application for managing projects.
 
 Use the following link to access the Web Application:
 https://project-management-app-1f1aa.web.app/
